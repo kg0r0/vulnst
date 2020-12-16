@@ -25,3 +25,6 @@ $ curl http://localhost:3000/public/%2e%2e/package.json
   }
 }
 ```
+
+## References
+- https://snyk.io/vuln/npm:st:20140206
