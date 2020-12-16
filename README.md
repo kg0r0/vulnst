@@ -1,5 +1,5 @@
 # vulnst
-![CI](https://github.com/kg0r0/vulnst/workflows/CI/badge.svg)
+![CI](https://github.com/kg0r0/vulnst/workflows/CI/badge.svg)  
 Directory Traversal Demo of npm [st](https://www.npmjs.com/package/st).
 
 ## Usage
